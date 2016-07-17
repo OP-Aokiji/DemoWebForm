@@ -1,0 +1,59 @@
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.Logging\obj\Debug\WN.Logging.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\bin\Debug\WN.Logging.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.csprojResolveAssemblyReference.cache
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.Logging\obj\Debug\WN.Logging.pdb

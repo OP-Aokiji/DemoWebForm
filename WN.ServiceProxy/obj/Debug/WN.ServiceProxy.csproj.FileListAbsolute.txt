@@ -1,0 +1,183 @@
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ServiceProxy.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataAccess.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.DataItem.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\bin\Debug\WN.ADOService.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.csprojResolveAssemblyReference.cache
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ServiceProxy\obj\Debug\WN.ServiceProxy.pdb

@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ShopHTMaster.master.cs"
+    Inherits="WN.WebApp.ShopHTMaster" %>
+
+<%@ Register Src="~/uc/ucTopMenu.ascx" TagPrefix="shopHT" TagName="ucTopMenu" %>
+<%@ Register Src="~/uc/ucFooter.ascx" TagPrefix="shopHT" TagName="ucFooter" %>
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="ie8"> <![endif]-->
+<!--[if IE 9]> <html class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html>
+<!--<![endif]-->
+<head runat="server">
+    <meta charset="utf-8">
+    <title>SHOP HT</title>
+    <meta name="description" content="Shop HT">
+    <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic%7CPT+Gudea:400,700,400italic%7CPT+Oswald:400,700,300'
+        rel='stylesheet' id="googlefont">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/prettyPhoto.css">
+    <link rel="stylesheet" href="/css/owl.carousel.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/responsive.css">
+    <!-- Favicon and Apple Icons -->
+    <link rel="icon" type="image/png" href="images/icons/icon.html">
+    <link rel="apple-touch-icon" sizes="57x57" href="images/icons/apple-icon-57x57.html">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/icons/apple-icon-72x72.html">
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD45Nu6JYgh1oKG5G9ut7Nr4QW48gx-6ug&amp;sensor=false"></script>
+    <!--- jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>        window.jQuery || document.write('<script src="/js/jquery-1.11.0.min.js"><\/script>')</script>
+    <!--[if lt IE 9]>
+            <script src="js/html5shiv.js"></script>
+            <script src="js/respond.min.js"></script>
+        <![endif]-->
+</head>
+<body>
+
+    <form id="shopHTMasterPage" runat="server">
+
+       <%-- <div id="fb-root"></div>
+        <script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>--%>
+
+        <div id="wrapper">
+            <shopHT:ucTopMenu runat="server" ID="ucTopMenu" />
+            <asp:ContentPlaceHolder runat="server" ID="masterPageContentPlaceHolder">
+            </asp:ContentPlaceHolder>
+            <shopHT:ucFooter runat="server" ID="ucFooter" />
+        </div>
+    </form>
+    <a id="toTop" rel="nofollow" style="display: block;">Back to Top</a>
+    <!-- END -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/smoothscroll.js"></script>
+    <script src="/js/retina-1.1.0.min.js"></script>
+    <script src="/js/jquery.placeholder.js"></script>
+    <script src="/js/jquery.hoverIntent.min.js"></script>
+    <script src="/js/jquery.flexslider-min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/jquery.prettyPhoto.js"></script>
+    <script src="/js/jquery.isotope.min.js"></script>
+    <script src="/js/modernizr.custom.js"></script>
+    <script src="/js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#toTop").hide();
+            $(function () {
+                $(window).scroll(function () {
+                    if ($(this).scrollTop() > 100) {
+                        $('#toTop').fadeIn();
+                    } else {
+                        $('#toTop').fadeOut();
+                    }
+                });
+                $('#toTop').click(function () {
+                    $('body,html').animate({
+                        scrollTop: 0
+                    }, 800);
+                    return false;
+                });
+            });
+        });
+        function responseHandler(res) {
+            return res.repos;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\bin\Debug\WN.DataItem.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.csprojResolveAssemblyReference.cache
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataItem\obj\Debug\WN.DataItem.pdb

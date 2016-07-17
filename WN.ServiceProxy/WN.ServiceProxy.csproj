@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D5AD94F-A04E-43B7-915C-4B1D72198666}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WN.ServiceProxy</RootNamespace>
+    <AssemblyName>WN.ServiceProxy</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IServiceProxy\ICategoryLevel2Proxy.cs" />
+    <Compile Include="IServiceProxy\IBannerProxy.cs" />
+    <Compile Include="IServiceProxy\ICategoryLevel1Proxy.cs" />
+    <Compile Include="IServiceProxy\IShopInfoProxy.cs" />
+    <Compile Include="IServiceProxy\IProductImageProxy.cs" />
+    <Compile Include="IServiceProxy\IProductProxy.cs" />
+    <Compile Include="IServiceProxy\ITagSeoProxy.cs" />
+    <Compile Include="IServiceProxy\IUserAcountProxy.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceProxy\BannerProxy.cs" />
+    <Compile Include="ServiceProxy\CategoryLevel1Proxy.cs" />
+    <Compile Include="ServiceProxy\CategoryLevel2Proxy.cs" />
+    <Compile Include="ServiceProxy\ShopInfoProxy.cs" />
+    <Compile Include="ServiceProxy\ProductImageProxy.cs" />
+    <Compile Include="ServiceProxy\ProductProxy.cs" />
+    <Compile Include="ServiceProxy\TagSeoProxy.cs" />
+    <Compile Include="ServiceProxy\UserAcountProxy.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WN.DataAccess\WN.DataAccess.csproj">
+      <Project>{54E5C8DD-D487-4711-BA0D-C1865BD8DAA8}</Project>
+      <Name>WN.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WN.DataItem\WN.DataItem.csproj">
+      <Project>{188D8926-B93A-4160-B90E-4A99E55148AE}</Project>
+      <Name>WN.DataItem</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

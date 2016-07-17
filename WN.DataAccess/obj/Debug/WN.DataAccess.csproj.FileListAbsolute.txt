@@ -1,0 +1,183 @@
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataAccess.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.ADOService.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.Common.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\bin\Debug\WN.DataItem.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.csprojResolveAssemblyReference.cache
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.DataAccess\obj\Debug\WN.DataAccess.pdb

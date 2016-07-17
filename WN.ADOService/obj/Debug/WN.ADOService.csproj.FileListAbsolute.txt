@@ -1,0 +1,89 @@
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150406\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150412\EyeVinaSolutions\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150415_2\EyeVinaSolutions 20150415\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150416\EyeVinaSolutions 20150416\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.Logging.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.Logging.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\EYEVINA PROJECT\EyeVinaSolutions 20150419\EyeVinaSolutions 20150417\EyeVinaSolutions 20150417\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT 20150504_2\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT 20150505\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.pdb
+E:\MY PROJECT\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.pdb
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.dll
+E:\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\bin\Debug\WN.ADOService.pdb
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.csprojResolveAssemblyReference.cache
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.dll
+D:\WebForm\WEB_SHOP_HT\WEB_SHOP_HT\WN.ADOService\obj\Debug\WN.ADOService.pdb

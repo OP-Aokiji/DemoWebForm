@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{54E5C8DD-D487-4711-BA0D-C1865BD8DAA8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WN.DataAccess</RootNamespace>
+    <AssemblyName>WN.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\BannerDAO.cs" />
+    <Compile Include="DataAccess\CategoryLevel1DAO.cs" />
+    <Compile Include="DataAccess\CategoryLevel2DAO.cs" />
+    <Compile Include="DataAccess\ShopInfoDAO.cs" />
+    <Compile Include="DataAccess\ProductDAO.cs" />
+    <Compile Include="DataAccess\ProductImageDAO.cs" />
+    <Compile Include="DataAccess\TagSeoDAO.cs" />
+    <Compile Include="DataAccess\UserAcountDAO.cs" />
+    <Compile Include="IDataAccess\ICategoryLevel2DAO.cs" />
+    <Compile Include="IDataAccess\IBannerDAO.cs" />
+    <Compile Include="IDataAccess\ICategoryLevel1DAO.cs" />
+    <Compile Include="IDataAccess\IShopInforDAO.cs" />
+    <Compile Include="IDataAccess\IProductDAO.cs" />
+    <Compile Include="IDataAccess\IProductImageDAO.cs" />
+    <Compile Include="IDataAccess\ITagSeoDAO.cs" />
+    <Compile Include="IDataAccess\IUserAcountDAO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WN.ADOService\WN.ADOService.csproj">
+      <Project>{B1AA4508-029E-4536-AC41-3BAEC1389F1F}</Project>
+      <Name>WN.ADOService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WN.Common\WN.Common.csproj">
+      <Project>{F58C7FAB-982C-421F-908F-9DD4D72EAF17}</Project>
+      <Name>WN.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WN.DataItem\WN.DataItem.csproj">
+      <Project>{188D8926-B93A-4160-B90E-4A99E55148AE}</Project>
+      <Name>WN.DataItem</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
